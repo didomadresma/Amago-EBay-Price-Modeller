@@ -1,0 +1,1 @@
+Applying weighted K-Nearest Neighbors with additional Gaussian, Subtraction and Inverse metrics on live eBay’s XML based API data, we extract key words (or features) for the item whose price is to be predicted, pass it through our price model and fetch the best guess.
